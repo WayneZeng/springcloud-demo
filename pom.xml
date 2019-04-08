@@ -13,6 +13,7 @@
     <module>adminclient</module>
     <module>adminserver</module>
     <module>eclient</module>
+    <module>chaosmonkey</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
