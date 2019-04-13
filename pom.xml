@@ -14,6 +14,7 @@
     <module>adminserver</module>
     <module>eclient</module>
     <module>chaosmonkey</module>
+    <module>search</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
